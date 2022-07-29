@@ -24,3 +24,5 @@ Response:
 GET -> `http://localhost:8080/stocks`
 
 GET -> `http://localhost:8080/stocks/62e3967963ce3e4363296292`
+
+This code has also done exception handlings!
